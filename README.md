@@ -1,6 +1,6 @@
 # How-to-select-multiple-chips-from-the-.NET-MAUI-SfChipGroup
 
-This article demonstrates how to enable the selection of multiple chips within a .NET MAUI ChipGroup (SfChipGroup) control. By setting the ChipType to Filter and utilizing visual states, you can select multiple chips and change the selected chip’s color. Additionally, learn how to programmatically select chips using the SelectedItem property
+This sample demonstrates how to enable the selection of multiple chips within a .NET MAUI ChipGroup (SfChipGroup) control. By setting the ChipType to Filter and utilizing visual states, you can select multiple chips and change the selected chip’s color. Additionally, learn how to programmatically select chips using the SelectedItem property
 
 Consider a scenario where you need to allow users to select multiple languages from a provided list.
 
